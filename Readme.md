@@ -2,6 +2,7 @@
 
 - Студент: [Сергей Боднарюк](https://up.htmlacademy.ru/htmlcss/40/user/41416).
 - Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
+- Сайт: [Мой проект Седона](https://justgoodfellow.github.io/41416-sedona-40).
 
 ---
 
